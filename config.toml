@@ -1,0 +1,4 @@
+baseURL = "alertguo.github.io"
+languageCode = "zh-Hans"
+title = "小郭的博客"
+theme = "ananke"
